@@ -1,0 +1,2 @@
+No requirements are needed for this project .
+Tkinter and SQLite are included with most standard Python installations, so there are no mandatory third-party packages for this version.
